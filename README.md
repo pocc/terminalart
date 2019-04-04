@@ -16,6 +16,18 @@ on it.
 
 ## Usage
 
+### Generating ans files
+
+To generate ans files using img.sh, use 
+
+    bash img.sh -common <img> | tee <img>.ans
+
+* `-common` will ensure that it has a semicolon delimeter which is the most
+  supported type
+* Using `tee` will show you the produced image is it is being saved
+
+### Printing ans files
+
 You can use these images to verify whether your terminal supports 24-bit
 truecolor using ANSI escape codes. To view the images, use your OS's file print
 utility:
