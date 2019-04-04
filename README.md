@@ -29,16 +29,34 @@ To see all ans files sequentially, use `$command ans/*.ans`.
 
 ## Tests
 
-### Color line, 80w  
+### Color line, 80w 
+
+Modified from Anton Kochkov's [awk script](github.com/termstandard/colors)  
 ![](png/colorline.png)
 
-### Foreground and background test, 64w  
+### Foreground and background test, 64w
+
+Modified form of iTerm2 [24-bit
+test](https://raw.githubusercontent.com/JohnMorales/dotfiles/master/colors/24-bit-color.sh):  
 ![](png/ansitesting.png)
+
+### Foreground and background test, 78w
+
+Todd Larason's [perl
+cubes](https://github.com/robertknight/konsole/blob/master/tests/color-spaces.pl)
+Konsole test:  
+![](png/perl_cubes.png)
 
 ## Various Images, 80w
 
+### Wave off Kamigawa  
+![](png/wave_off_kamigawa.png)
+
 ### Beastie  
 ![](png/beastie.png)
+
+### Butterfly
+![](png/butterfly.png)
 
 ### Earth  
 ![](png/earth.png)
@@ -64,5 +82,3 @@ To see all ans files sequentially, use `$command ans/*.ans`.
 ### Tux  
 ![](png/tux.png)
 
-### Wave off Kamigawa  
-![](png/wave_off_kamigawa.png)
