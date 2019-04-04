@@ -29,40 +29,40 @@ To see all ans files sequentially, use `$command ans/*.ans`.
 
 ## Tests
 
-Color line, 80w: 
-![](png/colorline.ans)
+### Color line, 80w  
+![](png/colorline.png)
 
-Foreground and background test, 64w:
-![](png/ansitesting.ans)
+### Foreground and background test, 64w  
+![](png/ansitesting.png)
 
 ## Various Images, 80w
 
-Beastie
+### Beastie  
 ![](png/beastie.png)
 
-Earth
+### Earth  
 ![](png/earth.png)
 
-Great Horned Owl
+### Great Horned Owl  
 ![](png/great_horned_owl.png)
 
-Rainbow
+### Rainbow  
 ![](png/rainbow.png)
 
-Rose
+### Rose  
 ![](png/rose.png)
 
-Starry Night
+### Starry Night  
 ![](png/starry_night.png)
 
-Sunflower
+### Sunflower  
 ![](png/sunflower.png)
 
-Tiger
+### Tiger  
 ![](png/tiger.png)
 
-Tux
+### Tux  
 ![](png/tux.png)
 
-Wave off Kamigawa
+### Wave off Kamigawa  
 ![](png/wave_off_kamigawa.png)
